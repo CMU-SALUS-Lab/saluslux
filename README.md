@@ -43,7 +43,7 @@ grid = slux.generate_unified_grid(100, [(-10, 10, -10, 10)])
 Eh = slux.compute_illuminance(grid, data['sources'], normal_vector=[0, 0, 1])
 ```
 
-For more complex use cases (e.g., 16-surface 4-way intersection simulations), see the directory.
+
 
 ---
 
@@ -68,4 +68,4 @@ Kavee, K., Flanigan, K. A., & Quick, S. (2025). SALUSLux: Open-source software f
 
 ## Tutorial videos and Workshop
 
-Coming soon
+For more complex use cases (e.g., 16-surface 4-way intersection simulations), see the following clips (COMING SOON)
