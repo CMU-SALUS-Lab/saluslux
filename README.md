@@ -32,19 +32,18 @@ numpy, scipy, matplotlib, pandas
 Import the library:
 
 ```python
-import saluslux.photometry as photo
-import saluslux.simulation as sim
+import saluslux as slux
 ```
 
 Example: Parse an IES file and compute illumination on a surface:
 
 ```python
-data = photo.parse_ies('example.ies')
-grid = sim.generate_unified_grid(100, [(-10, 10, -10, 10)])
-Eh = sim.compute_illuminance(grid, data['sources'], normal_vector=[0, 0, 1])
+data = slux.parse_ies('example.ies')
+grid = slux.generate_unified_grid(100, [(-10, 10, -10, 10)])
+Eh = slux.compute_illuminance(grid, data['sources'], normal_vector=[0, 0, 1])
 ```
 
-For more complex use cases (e.g., 16-surface intersection simulations), see the `notebooks/` directory.
+For more complex use cases (e.g., 16-surface 4-way intersection simulations), see the directory.
 
 ---
 
