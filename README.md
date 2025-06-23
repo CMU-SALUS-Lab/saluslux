@@ -25,6 +25,8 @@ SALUSLux uses the following Python packages:
 numpy, scipy, matplotlib, pandas
 ```
 
+(We also recently published the project to https://pypi.org/project/saluslux/)
+
 ---
 
 ## Quick Start
