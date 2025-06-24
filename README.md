@@ -1,6 +1,6 @@
 # SALUSLux
 
-![our logo](doc/SALUSLuxLogo.png)
+<img src="doc/SALUSLuxLogo.png" alt="SALUSLux logo" width="200"/>
 
 **SALUSLux** is an open-source Python package for simulating and optimizing urban street lighting, with a focus on pedestrian safety and light pollution mitigation. Designed for researchers, engineers, and city planners, SALUSLux brings full programmatic control to the lighting simulation process using standardized IES photometric data.
 
