@@ -66,7 +66,7 @@ If you use SALUSLux in your research, please cite:
 
 - **Tecnical Report** https://rosap.ntl.bts.gov/view/dot/86297
 ```
-Flanigan, Katherine A., Korawich Kavee, and Stephen L. Quick. SALUSLux: Automation for Safer Pedestrian Street Lighting at Intersections. No. 496. Carnegie Mellon University. Traffic21 Institute. Safety21 University Transportation Center (UTC), 2025.
+Flanigan, K. A., Kavee, K., & Quick, S. L. (2025). SALUSLux: Automation for Safer Pedestrian Street Lighting at Intersections (No. 496). Carnegie Mellon University. Traffic21 Institute. Safety21 University Transportation Center (UTC).
 ```
 
 ---
