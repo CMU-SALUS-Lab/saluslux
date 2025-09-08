@@ -64,7 +64,7 @@ Mainstream lighting tools like Revit or DIALux are GUI-heavy and proprietary. SA
 
 If you use SALUSLux in your research, please cite:
 
-- **Tecnical Report** https://rosap.ntl.bts.gov/view/dot/86297
+- **Tecnical Report in Bureau of Transportation Statistics (BTS)'s National Transportation Library** https://rosap.ntl.bts.gov/view/dot/86297
 ```
 Flanigan, K. A., Kavee, K., & Quick, S. L. (2025). SALUSLux: Automation for Safer Pedestrian Street Lighting at Intersections (No. 496). Carnegie Mellon University. Traffic21 Institute. Safety21 University Transportation Center (UTC).
 ```
