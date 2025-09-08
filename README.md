@@ -64,9 +64,7 @@ Mainstream lighting tools like Revit or DIALux are GUI-heavy and proprietary. SA
 
 If you use SALUSLux in your research, please cite:
 
-```
-Kavee, K., Flanigan, K. A., & Quick, S. (2025). SALUSLux: Open-source software for optimizing street lighting to improve pedestrian safety and light pollution. IEEE International Smart Cities Conference.
-```
+- **Tecnical Report** https://rosap.ntl.bts.gov/view/dot/86297
 
 ---
 
