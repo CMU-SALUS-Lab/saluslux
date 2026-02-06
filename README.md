@@ -71,8 +71,8 @@ Flanigan, K. A., Kavee, K., & Quick, S. L. (2025). SALUSLux: Automation for Safe
 
 ---
 
-## Tutorial videos and Workshop
+## Tutorial and Workshop
 
-For more complex use cases (e.g., 16-surface 4-way intersection simulations), see the following clips (COMING SOON)
+- https://korawichmawinkavee.medium.com/saluslux-tutorial-1-lighting-a-light-14400decfecd
 
 PS - put stars ⭐️ on the GitHub repo!
