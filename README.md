@@ -7,7 +7,7 @@
 (We also recently published the project to https://pypi.org/project/saluslux/)
 
 > **Built by the SALUS Lab at Carnegie Mellon University**  
-> [SALUSLab Website](https://www.flanigansaluslab.com) · [IEEE Paper](Coming soon) · License: Apache-2.0
+> [SALUSLab Website](https://www.flanigansaluslab.com) License: Apache-2.0
 
 ---
 
@@ -76,5 +76,8 @@ Flanigan, K. A., Kavee, K., & Quick, S. L. (2025). SALUSLux: Automation for Safe
 ## Tutorial and Workshop
 
 - https://korawichmawinkavee.medium.com/saluslux-tutorial-1-lighting-a-light-14400decfecd
+
+## Presentation 
+- [2.20.26 - Katherine Flanigan](https://www.youtube.com/watch?v=DFYq7BrMwwY)
 
 PS - put stars ⭐️ on the GitHub repo!
