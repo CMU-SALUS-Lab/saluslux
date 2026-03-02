@@ -75,7 +75,7 @@ Flanigan, K. A., Kavee, K., & Quick, S. L. (2025). SALUSLux: Automation for Safe
 
 ## Tutorial and Workshop
 
-- https://korawichmawinkavee.medium.com/saluslux-tutorial-1-lighting-a-light-14400decfecd
+- [SALUSLux Tutorial 1 — lighting a light](https://korawichmawinkavee.medium.com/saluslux-tutorial-1-lighting-a-light-14400decfecd)
 
 ## Presentation 
 - [2.20.26 - Katherine Flanigan](https://www.youtube.com/watch?v=DFYq7BrMwwY)
