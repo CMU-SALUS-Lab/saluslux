@@ -79,6 +79,6 @@ Flanigan, K. A., Kavee, K., & Quick, S. L. (2025). SALUSLux: Automation for Safe
 
 ## Presentation 
 - [2.20.26 - Katherine Flanigan](https://www.youtube.com/watch?v=DFYq7BrMwwY)
-- [Pedestrian and Street Lighting: 2.20.26 - Katherine Flanigan: Safety21 Talks Edit Archive](https://www.youtube.com/watch?v=LKs-s-SPtJs)
+- [Pedestrian and Street Lighting: 2.20.26 - Katherine Flanigan: Safety21 Talks Edit Archive](https://www.youtube.com/watch?v=TRy9TK4j260)
 
 PS - put stars ⭐️ on the GitHub repo!
