@@ -92,7 +92,7 @@ abstract = {Pedestrian safety in urban environments remains a critical public he
 - [SALUSLux Tutorial 1 — lighting a light](https://korawichmawinkavee.medium.com/saluslux-tutorial-1-lighting-a-light-14400decfecd)
 
 ## Presentation 
-- [2.20.26 - Katherine Flanigan](https://www.youtube.com/watch?v=DFYq7BrMwwY)
-- [Pedestrian and Street Lighting: 2.20.26 - Katherine Flanigan: Safety21 Talks Edit Archive](https://www.youtube.com/watch?v=TRy9TK4j260)
+- [2.20.26 - Katherine Flanigan](https://www.youtube.com/watch?v=DFYq7BrMwwY) 44:10 
+- [Pedestrian and Street Lighting: 2.20.26 - Katherine Flanigan: Safety21 Talks Edit Archive](https://www.youtube.com/watch?v=TRy9TK4j260) 29:50
 
 PS - put stars ⭐️ on the GitHub repo!
